@@ -1,0 +1,25 @@
+{
+  "name": "github-boom",
+  "version": "1.0.0",
+  "description": "Cool Git Boom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praabindhp/GitHub-Boom.git"
+  },
+  "author": "Praabindh P",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/praabindhp/GitHub-Boom/issues"
+  },
+  "homepage": "https://github.com/praabindhp/GitHub-Boom#readme",
+  "dependencies": {
+    "init": "^0.1.2",
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.1",
+    "simple-git": "^2.36.0"
+  }
+}
