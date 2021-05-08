@@ -1,1 +1,1 @@
-for i in {1..11}; do node indexToday.js; done
+for i in {1..9}; do node indexToday.js; done
